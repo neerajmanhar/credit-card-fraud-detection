@@ -79,6 +79,6 @@ Make sure to adjust the `host` and `port` as per your deployment settings if nec
 
 ## Model
 
-The model used for fraud detection is trained on credit card transaction data and saved as a `.pkl` file for inference.
+The model used for fraud detection is trained on credit card transaction dataset from [**kaggle**](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) and saved as a `.pkl` file for inference.
 
 
