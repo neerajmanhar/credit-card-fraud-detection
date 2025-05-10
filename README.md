@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection
 
 This project is a machine learning-based credit card fraud detection system using a classification model deployed with FastAPI on an AWS EC2 instance. It detects fraudulent credit card transactions by training a model using historical transaction data.
+
+
 [**AWS Demo Link**](http://13.201.99.47:8000) (This is the public IP address of the EC2 instance)
 ## Features
 
