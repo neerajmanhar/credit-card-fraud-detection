@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 This project is a machine learning-based credit card fraud detection system using a classification model deployed with FastAPI on an AWS EC2 instance. It detects fraudulent credit card transactions by training a model using historical transaction data.
-
+[**AWS Demo Link**](http://13.201.99.47:8000) (This is the public IP address of the EC2 instance)
 ## Features
 
 - Trains a model using XGBoost or other classifiers for fraud detection.
@@ -71,7 +71,7 @@ Make sure to adjust the `host` and `port` as per your deployment settings if nec
 ## File Structure
 
 * `main.py`: Contains the FastAPI application and API routes.
-* `model/`: Directory containing the trained model and scaler files.
+* `model/`: Directory containing the ipynb file.
 * `requirements.txt`: List of dependencies required to run the project.
 * `README.md`: Documentation for the project.
 
