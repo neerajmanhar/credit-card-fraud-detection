@@ -94,6 +94,3 @@ def predict_transaction(data: TransactionFeatures):
 if __name__ == '__main__':
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
-
-# ssh -i "O:\GitHub-projects\AWS\creditcard-fraud.pem" ubuntu@13.201.99.47 
