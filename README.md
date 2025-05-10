@@ -17,7 +17,7 @@ This project is a machine learning-based credit card fraud detection system usin
 
    ```bash
    git clone https://github.com/neerajmanhar/credit-card-fraud-detection.git
-````
+
 
 2. **Create a Virtual Environment**
 
